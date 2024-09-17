@@ -305,7 +305,7 @@ export const projects = [
     title: "Cat Wiki",
     date: "Apr 2023 - May 2023",
     description:
-      "Desarolle una wiki de gatos que le permite a los usuarios ver un resumen de informacion de cada gato a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "Desarolle una wiki de gatos que le permite a los usuarios ver un resumen de informacion de cada gato, asi como los gatos mas buscados en la wiki, almaceno los datos extraidos de una api en mi base de datos MongoDB",
     image:
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
@@ -329,7 +329,7 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Vexa",
+    title: "My unsplash",
     date: "Oct 2022 - Present",
     description:
       "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
