@@ -137,7 +137,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8rSuM7i95a92Eg_4mGCU6n2jHVA-dKS6aIQ&s",
+    img: "https://3.bp.blogspot.com/-ppIOJNjHGZY/VsXjdS3u-AI/AAAAAAAABJQ/uN7s2vP0j_I/s860-r/LOGOVENALUM-02.png",
     role: "Desarrollador Full Stack",
     company: "CVG Venalum",
     date: "Feb 2023 - Actulidad",
