@@ -144,10 +144,10 @@ const Contact = () => {
   return (
     <Container>
       <Wrapper>
-        <Title>Contact</Title>
-        <Desc>Feel free to reach out to me for any questions or opportunities!</Desc>
+        <Title>Contacto</Title>
+        <Desc>Cualquier duda u oporonidad es bienvenida</Desc>
         <ContactForm ref={form} onSubmit={handleSubmit}>
-          <ContactTitle>Email Me 🚀</ContactTitle>
+          <ContactTitle>Enviame un correo 🚀</ContactTitle>
           <ContactInput placeholder="Your Email" name="from_email" />
           <ContactInput placeholder="Your Name" name="from_name" />
           <ContactInput placeholder="Subject" name="subject" />
