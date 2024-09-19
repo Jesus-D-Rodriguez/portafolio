@@ -83,7 +83,7 @@ export const skills = [
       {
         name: "PHP",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg",
       },
       {
         name: "Laravel",
@@ -126,17 +126,15 @@ export const experiences = [
       "HTML",
       "JavaScript",
     ],
-    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
 ];
 
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl3cWwH37z8vga_POCwhROPi8kT1p5W0lpQ&s",
     school: "Universidad Catolica Andres Bello",
     date: "Oct 2019 - Ene 2025",
-    grade: "8.71 CGPA",
     desc: "Estoy finalizando la carrera de ingenieria informatica en una universidad de alto prestigio en Venezuela",
     degree: "Ingenieria informatica",
   },
