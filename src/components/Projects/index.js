@@ -10,9 +10,9 @@ const Projects = ({openModal,setOpenModal}) => {
   return (
     <Container id="projects">
       <Wrapper>
-        <Title>Projects</Title>
+        <Title>Proyectos</Title>
         <Desc>
-          I have worked on a wide range of projects. From web apps to android apps. Here are some of my projects.
+          Estos son algunos de los proyectos de desarrollo web en los que he trabajado.
         </Desc>
         <ToggleButtonGroup >
           {toggle === 'all' ?
