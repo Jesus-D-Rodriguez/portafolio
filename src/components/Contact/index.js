@@ -148,9 +148,9 @@ const Contact = () => {
         <Desc>Cualquier duda u oporonidad es bienvenida</Desc>
         <ContactForm ref={form} onSubmit={handleSubmit}>
           <ContactTitle>Enviame un correo 🚀</ContactTitle>
-          <ContactInput placeholder="Your Email" name="from_email" />
-          <ContactInput placeholder="Your Name" name="from_name" />
-          <ContactInput placeholder="Subject" name="subject" />
+          <ContactInput placeholder="Tu correo" name="from_email" />
+          <ContactInput placeholder="Tu nombre" name="from_name" />
+          <ContactInput placeholder="Motivo" name="subject" />
           <ContactInputMessage placeholder="Message" rows="4" name="message" />
           <ContactButton type="submit" value="Send" />
         </ContactForm>
@@ -158,7 +158,7 @@ const Contact = () => {
           open={open}
           autoHideDuration={6000}
           onClose={()=>setOpen(false)}
-          message="Email sent successfully!"
+          message="Email enviado con exito!"
           severity="success"
         />
       </Wrapper>
