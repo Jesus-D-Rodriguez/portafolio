@@ -191,7 +191,7 @@ export const projects = [
     description:
       "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://private-user-images.githubusercontent.com/70321814/369659368-7d237f59-6f54-4c21-9838-384ae08cf4cd.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY5NzIwODQsIm5iZiI6MTcyNjk3MTc4NCwicGF0aCI6Ii83MDMyMTgxNC8zNjk2NTkzNjgtN2QyMzdmNTktNmY1NC00YzIxLTk4MzgtMzg0YWUwOGNmNGNkLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIyVDAyMjMwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjYjU3NmQ5Y2QwYTcwODc4YWYyZThiMmFmNmE2ODE0ZTZmMjUxMDdiZGIzZDdkODIyZDdhMGU5ZWUyNDVhZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.myzXX8Ryor6P5Ub1UFVCVlAFqija7rwT50tWS_HAXjU",
     tags: [
       "React Js",
       "MongoDb",
