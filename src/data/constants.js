@@ -162,7 +162,7 @@ export const projects = [
     id: 1,
     title: "My unsplash",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "Desarrolle yulizando React, Express y MongoDB una pagina que permite subir imagenes utilizando el url de imagen.",
     image:
       "https://github.com/Jesus-D-Rodriguez/imagenes-portafolio/blob/main/my-unsplash.jpg?raw=true",
     tags: [
@@ -179,7 +179,7 @@ export const projects = [
     id: 2,
     title: "Sistema Integral de Control de Compromisos",
     description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+      "Desarrolle una aplicacion que permite llevar el control de distintos documentos de pago, autorizacion de pagos o pagos para una oficina de control de compromisos, la aplicacion tambien genera reportes en pdf en relacion a los documentos que se le almacenen. Fue hecha en Laravel, usando Livewire, AlpineJs y MySQL",
     image:
       "https://github.com/Jesus-D-Rodriguez/imagenes-portafolio/blob/main/SICCV.PNG?raw=true",
     tags: ["PHP", "Laravel", "Alpine JS", "Livewire", "MySQL"],
