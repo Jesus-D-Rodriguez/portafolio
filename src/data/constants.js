@@ -153,7 +153,7 @@ export const projects = [
     description:
       "Desarolle una wiki de gatos que le permite a los usuarios ver un resumen de informacion de cada gato, asi como los gatos mas buscados en la wiki, almaceno los datos extraidos de una api en mi base de datos MongoDB",
     image:
-      "https://private-user-images.githubusercontent.com/70321814/369659128-722ca734-d8b3-40a0-8490-bc4fca3624f8.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY5NzE1MzMsIm5iZiI6MTcyNjk3MTIzMywicGF0aCI6Ii83MDMyMTgxNC8zNjk2NTkxMjgtNzIyY2E3MzQtZDhiMy00MGEwLTg0OTAtYmM0ZmNhMzYyNGY4LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIyVDAyMTM1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA3NzU4ZTIwMzIwYzhjNjNlZWYyY2Y3NDFmNTQwNmViYzJjNmYyN2QzYWJiMDZlM2MwZTVhODMxMDIyNzBjNjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bCYTWBLfrbD-msnNlA6g2qbCl6be1NP6X31VcHo4xZQ",
+      "https://github.com/Jesus-D-Rodriguez/imagenes-portafolio/blob/main/cat-wiki.jpg?raw=true",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
     category: "web app",
     github: "https://github.com/Jesus-D-Rodriguez/cat-wiki-frontend",
@@ -166,7 +166,7 @@ export const projects = [
     description:
       "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
     image:
-      "https://private-user-images.githubusercontent.com/70321814/369659368-7d237f59-6f54-4c21-9838-384ae08cf4cd.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY5NzIwODQsIm5iZiI6MTcyNjk3MTc4NCwicGF0aCI6Ii83MDMyMTgxNC8zNjk2NTkzNjgtN2QyMzdmNTktNmY1NC00YzIxLTk4MzgtMzg0YWUwOGNmNGNkLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIyVDAyMjMwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjYjU3NmQ5Y2QwYTcwODc4YWYyZThiMmFmNmE2ODE0ZTZmMjUxMDdiZGIzZDdkODIyZDdhMGU5ZWUyNDVhZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.myzXX8Ryor6P5Ub1UFVCVlAFqija7rwT50tWS_HAXjU",
+      "https://github.com/Jesus-D-Rodriguez/imagenes-portafolio/blob/main/my-unsplash.jpg?raw=true",
     tags: [
       "React Js",
       "MongoDb",
@@ -186,7 +186,7 @@ export const projects = [
     description:
       "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+      "https://github.com/Jesus-D-Rodriguez/imagenes-portafolio/blob/main/SICCV.PNG?raw=true",
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "machine learning",
     github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
