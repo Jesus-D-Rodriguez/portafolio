@@ -149,7 +149,6 @@ export const projects = [
   {
     id: 0,
     title: "Cat Wiki",
-    date: "Apr 2023 - May 2023",
     description:
       "Desarolle una wiki de gatos que le permite a los usuarios ver un resumen de informacion de cada gato, asi como los gatos mas buscados en la wiki, almaceno los datos extraidos de una api en mi base de datos MongoDB",
     image:
@@ -162,7 +161,6 @@ export const projects = [
   {
     id: 1,
     title: "My unsplash",
-    date: "Oct 2022 - Present",
     description:
       "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
     image:
@@ -172,8 +170,6 @@ export const projects = [
       "MongoDb",
       "Node Js",
       "Express Js",
-      "Redux",
-      "NodeMailer",
     ],
     category: "web app",
     github: "https://github.com/rishavchanda/Project-Management-App",
@@ -182,12 +178,11 @@ export const projects = [
   {
     id: 2,
     title: "Sistema Integral de Control de Compromisos",
-    date: "Jan 2023 - Mar 2023",
     description:
       "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
     image:
       "https://github.com/Jesus-D-Rodriguez/imagenes-portafolio/blob/main/SICCV.PNG?raw=true",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    tags: ["PHP", "Laravel", "Alpine JS", "Livewire", "MySQL"],
     category: "machine learning",
     github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
     images: "https://imgur.com/a/yQlYCvc",
