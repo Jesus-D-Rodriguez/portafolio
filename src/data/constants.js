@@ -169,7 +169,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    xdddd: "https://trackify.duckdns.org",
   },
   {
     id: 0,
