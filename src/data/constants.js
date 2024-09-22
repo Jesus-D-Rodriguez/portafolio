@@ -7,8 +7,8 @@ export const Bio = {
     "Soy un casi ingeniero infomatico apasionado por el desarrollo web y aprender cosas nuevas With sobre mi carrera. Me apasiona la idea de creciendo en el area de la ingenieria informatica y el desarrollo web",
   github: "https://github.com/Jesus-D-Rodriguez",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    "https://drive.google.com/file/d/1ng9qcqgV4pre6YSzGgv_cMnaXNkHVC4u/view?usp=sharing",
+  linkedin: "https://www.linkedin.com/in/jesus-david-rodr%C3%ADguez-chac%C3%B3n-588506225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/rishav_chanda/",
   facebook: "https://www.facebook.com/rishav.chanda.165/",
