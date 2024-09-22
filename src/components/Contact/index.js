@@ -145,7 +145,7 @@ const Contact = () => {
     <Container>
       <Wrapper>
         <Title>Contacto</Title>
-        <Desc>Cualquier duda u oporonidad es bienvenida</Desc>
+        <Desc>Cualquier duda u oportunidad es bienvenida</Desc>
         <ContactForm ref={form} onSubmit={handleSubmit}>
           <ContactTitle>Enviame un correo 🚀</ContactTitle>
           <ContactInput placeholder="Tu correo" name="from_email" />
