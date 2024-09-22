@@ -178,7 +178,7 @@ export const projects = [
     description:
       "Desarolle una wiki de gatos que le permite a los usuarios ver un resumen de informacion de cada gato, asi como los gatos mas buscados en la wiki, almaceno los datos extraidos de una api en mi base de datos MongoDB",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://private-user-images.githubusercontent.com/70321814/369659128-722ca734-d8b3-40a0-8490-bc4fca3624f8.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY5NzE1MzMsIm5iZiI6MTcyNjk3MTIzMywicGF0aCI6Ii83MDMyMTgxNC8zNjk2NTkxMjgtNzIyY2E3MzQtZDhiMy00MGEwLTg0OTAtYmM0ZmNhMzYyNGY4LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIyVDAyMTM1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA3NzU4ZTIwMzIwYzhjNjNlZWYyY2Y3NDFmNTQwNmViYzJjNmYyN2QzYWJiMDZlM2MwZTVhODMxMDIyNzBjNjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bCYTWBLfrbD-msnNlA6g2qbCl6be1NP6X31VcHo4xZQ",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
     category: "web app",
     github: "https://github.com/Jesus-D-Rodriguez/cat-wiki-frontend",
