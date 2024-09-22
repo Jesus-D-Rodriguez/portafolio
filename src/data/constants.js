@@ -182,7 +182,7 @@ export const projects = [
     tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
     category: "web app",
     github: "https://github.com/Jesus-D-Rodriguez/cat-wiki-frontend",
-    webapp: "https://cat-wiki-zlzc.onrender.com/",
+    images: "https://cat-wiki-zlzc.onrender.com/",
   },
   {
     id: 1,
