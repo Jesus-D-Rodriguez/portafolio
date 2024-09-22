@@ -187,7 +187,7 @@ export const projects = [
     github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
     images: "https://imgur.com/a/yQlYCvc",
   },
-  {
+  /*{
     id: 3,
     title: "Ucab Profile",
     date: "Dec 2021 - Apr 2022",
@@ -277,7 +277,7 @@ export const projects = [
     category: "machine learning",
     github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
     webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  },
+  },*/
 ];
 
 export const TimeLineData = [
