@@ -184,7 +184,6 @@ export const projects = [
       "https://github.com/Jesus-D-Rodriguez/imagenes-portafolio/blob/main/SICCV.PNG?raw=true",
     tags: ["PHP", "Laravel", "Alpine JS", "Livewire", "MySQL"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
     images: "https://imgur.com/a/yQlYCvc",
   },
   /*{
