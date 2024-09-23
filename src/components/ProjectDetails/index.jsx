@@ -226,8 +226,9 @@ const index = ({ openModal, setOpenModal }) => {
                         </>
                     )}
                     <ButtonGroup>
-                        <Button dull href={project?.github} target='new'>View Code</Button>
-                        <Button href={project?.webapp} target='new'>View Live App</Button>
+                        {(project.github) && (<Button dull href={project?.github} target='new'>Ver codigo</Button>)}
+                        {(project.webapp) && (<Button href={project?.webapp} target='new'>Ver app en vivo</Button>)}
+                        {(project.images) && (<Button href={project?.images} target='new'>Ver imagenes</Button>)}
                     </ButtonGroup>
                 </Wrapper>
             </Container>

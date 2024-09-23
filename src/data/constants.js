@@ -7,8 +7,8 @@ export const Bio = {
     "Soy un casi ingeniero infomatico apasionado por el desarrollo web y aprender cosas nuevas sobre mi carrera. Me apasiona la idea de creciendo en el area de la ingenieria informatica y el desarrollo web",
   github: "https://github.com/Jesus-D-Rodriguez",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    "https://drive.google.com/file/d/1ng9qcqgV4pre6YSzGgv_cMnaXNkHVC4u/view?usp=sharing",
+  linkedin: "https://www.linkedin.com/in/jesus-david-rodr%C3%ADguez-chac%C3%B3n-588506225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/rishav_chanda/",
   facebook: "https://www.facebook.com/rishav.chanda.165/",
@@ -147,38 +147,12 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
-    title: "Trackify",
-    date: "Jun 2023 - Jul 2023",
-    description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
-    image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
-    tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-    ],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
-  },
-  {
     id: 0,
     title: "Cat Wiki",
-    date: "Apr 2023 - May 2023",
     description:
       "Desarolle una wiki de gatos que le permite a los usuarios ver un resumen de informacion de cada gato, asi como los gatos mas buscados en la wiki, almaceno los datos extraidos de una api en mi base de datos MongoDB",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://github.com/Jesus-D-Rodriguez/imagenes-portafolio/blob/main/cat-wiki.jpg?raw=true",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
     category: "web app",
     github: "https://github.com/Jesus-D-Rodriguez/cat-wiki-frontend",
@@ -187,18 +161,15 @@ export const projects = [
   {
     id: 1,
     title: "My unsplash",
-    date: "Oct 2022 - Present",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "Desarrolle yulizando React, Express y MongoDB una pagina que permite subir imagenes utilizando el url de imagen.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://github.com/Jesus-D-Rodriguez/imagenes-portafolio/blob/main/my-unsplash.jpg?raw=true",
     tags: [
       "React Js",
       "MongoDb",
       "Node Js",
       "Express Js",
-      "Redux",
-      "NodeMailer",
     ],
     category: "web app",
     github: "https://github.com/rishavchanda/Project-Management-App",
@@ -207,31 +178,15 @@ export const projects = [
   {
     id: 2,
     title: "Sistema Integral de Control de Compromisos",
-    date: "Jan 2023 - Mar 2023",
     description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+      "Desarrolle una aplicacion que permite llevar el control de distintos documentos de pago, autorizacion de pagos o pagos para una oficina de control de compromisos, la aplicacion tambien genera reportes en pdf en relacion a los documentos que se le almacenen. Fue hecha en Laravel, usando Livewire, AlpineJs y MySQL",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+      "https://github.com/Jesus-D-Rodriguez/imagenes-portafolio/blob/main/SICCV.PNG?raw=true",
+    tags: ["PHP", "Laravel", "Alpine JS", "Livewire", "MySQL"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
+    images: "https://imgur.com/a/yQlYCvc",
   },
-  {
+  /*{
     id: 3,
     title: "Ucab Profile",
     date: "Dec 2021 - Apr 2022",
@@ -321,7 +276,7 @@ export const projects = [
     category: "machine learning",
     github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
     webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  },
+  },*/
 ];
 
 export const TimeLineData = [
