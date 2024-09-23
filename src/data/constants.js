@@ -4,7 +4,7 @@ export const Bio = {
     "Desarrollador Full Stack",
   ],
   description:
-    "Soy un casi ingeniero infomatico apasionado por el desarrollo web y aprender cosas nuevas With sobre mi carrera. Me apasiona la idea de creciendo en el area de la ingenieria informatica y el desarrollo web",
+    "Soy un casi ingeniero infomatico apasionado por el desarrollo web y aprender cosas nuevas sobre mi carrera. Me apasiona la idea de creciendo en el area de la ingenieria informatica y el desarrollo web",
   github: "https://github.com/Jesus-D-Rodriguez",
   resume:
     "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
